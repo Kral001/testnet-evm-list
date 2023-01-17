@@ -1,3 +1,12 @@
+# Proof Of Stake ETH 2.0 Cartenz
+
+- [Checkpoint](https://checkpoint.cartenz.works): Checkpoint Node 
+- [RPC Global](https://rpc.cartenz.works): RPC For Global Server
+- [RPC-US](https://rpc-us.cartenz.works): RPC For Europe Server 
+- [RPC-ID](https://rpc-idn.cartenz.works): RPC For Asian Server (Jakarta) 
+- [Validator Dashboard](https://validator.cartenz.works): Explorer Beacon Node For Validator (Underconstruction)
+- [Deposit Page](https://deposit.cartenz.works): Page For Deposit Testnet
+
 # Post-Merge Ethereum Network
 
 - [github/protolambda/merge-genesis-tools](https://github.com/protolambda/merge-genesis-tools): Testnet tooling to create a merge state at genesis.
@@ -9,4 +18,7 @@
 - [github/ethereum/go-ethereum](https://github.com/ethereum/go-ethereum): Official Go implementation of the Ethereum protocol (execution).
 - [github/ChainSafe/lodestar](https://github.com/ChainSafe/lodestar): TypeScript implementation of an Ethereum consensus layer.
 - [github/eth-clients/holesovice](https://github.com/eth-clients/holesovice): Preview: the first public merged-from-genesis Ethereum testnet.
-# eth2-cartenz-testnet
+
+# How To Join Validator Testnet & Delegate ? 
+
+[Documents](https://docs.gitshock.com)
